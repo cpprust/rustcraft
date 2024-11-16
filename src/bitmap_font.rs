@@ -5,7 +5,7 @@ use std::{
     path::Path,
 };
 
-use anyhow::*;
+use anyhow::{bail, Result};
 
 use crate::texture::*;
 
