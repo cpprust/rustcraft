@@ -78,7 +78,7 @@ On windows-msvc, make sure that you have a version of ninja.exe ([download here]
 
 ### Controls
 
-- `awsd` to move around
+- `wasd` to move around
 - `space` move upwards
 - `shift` move down
 - `left click` break block
@@ -86,7 +86,7 @@ On windows-msvc, make sure that you have a version of ninja.exe ([download here]
 
 ## Authors
 
-- **Raphael Van Hoffelen** - [website](www.raphaelvanhoffelen.com)
+- **Raphael Van Hoffelen** - [website](https://github.com/dskart)
 
 ## License
 
